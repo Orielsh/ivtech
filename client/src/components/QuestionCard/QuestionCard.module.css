@@ -1,0 +1,17 @@
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 26px;
+}
+
+.link:hover {
+    color: rgb(39, 103, 159);
+}
+
+.q_body {
+    cursor: auto;
+}
+
+.card{
+    cursor: auto;
+}
