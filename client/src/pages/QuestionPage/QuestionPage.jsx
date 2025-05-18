@@ -39,7 +39,7 @@ export default function QuestionPage() {
                 }));
                 toasts.addToast({
                     success: true,
-                    headerText: "Login success",
+                    headerText: "Post success",
                 });
                 setAnswer("");
             }

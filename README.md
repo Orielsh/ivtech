@@ -28,3 +28,13 @@ after a successful message you should see the data in the database.
 next, run the command nodemnon, it will automatically start the server to listen to requests.
 
 I also choose to make endpoints more similar to rest api conecpt rather then put them all in the root since it seem not well design.
+
+# instructions in short:
+do npm i on both server and client
+seed the db with node seed (under server pathname)
+run the server with nodemon
+run the client with npm run dev
+
+check this user:
+email: Orielshmuel@gmail.com
+pass: Oriel123
