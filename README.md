@@ -30,10 +30,10 @@ next, run the command nodemnon, it will automatically start the server to listen
 I also choose to make endpoints more similar to rest api conecpt rather then put them all in the root since it seem not well design.
 
 # instructions in short:
-do npm i on both server and client
-seed the db with node seed (under server pathname)
-run the server with nodemon
-run the client with npm run dev
+1. do `npm i` on both server and client
+2. seed the db with `node seed` (under server pathname)
+3. run the server with `nodemon`
+4. run the client with `npm run dev`
 
 check this user:
 email: Orielshmuel@gmail.com
